@@ -9,6 +9,7 @@
 
 |        Project name         | Status  | Latest Version  |                 Developer(s)                 |
 | :-------------------------: | :-----: | :-------------: | :------------------------------------------: |
+|   whiteListUltra Plugin     | Coding | Alpha 1.0.1 | [Creakler](https://github.com/CreaklerFurry) |
 |    Orz Static Blog Frame    | Coding  | dev Alpha 3.2.1 | [Creakler](https://github.com/CreaklerFurry) |
 | Log For Typescript (Log4TS) | Feature |        -        | [Creakler](https://github.com/CreaklerFurry) |
 
