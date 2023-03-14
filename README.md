@@ -9,9 +9,9 @@
 
 |        Project name         | Status  | Latest Version  |                 Developer(s)                 |
 | :-------------------------: | :-----: | :-------------: | :------------------------------------------: |
-|   whiteListUltra Plugin     | Coding | dev Alpha 2.2.1 | [Creakler](https://github.com/CreaklerFurry) |
-|    Orz Static Blog Frame    | Coding  | dev Alpha 3.2.1 | [Creakler](https://github.com/CreaklerFurry) |
-| Log For Typescript (Log4TS) | Feature |        -        | [Creakler](https://github.com/CreaklerFurry) |
+|   KamenomiBot - QQ - ICQQ     | Coding | dev Alpha 2.2.1 | [Creakler](https://github.com/CreaklerFurry) |
+|   whiteListUltra Plugin     | Pause | dev Alpha 2.2.1 | [Creakler](https://github.com/CreaklerFurry) |
+|    Orz Static Blog Frame    | Pause  | dev Alpha 3.2.1 | [Creakler](https://github.com/CreaklerFurry) |
 
 More Links: [Homepage](https://creaklerfurry.github.io/) · [About Me More](https://creaklerfurry.github.io/README.md) · [About Me More - EN](https://creaklerfurry.github.io/README-EN.md)
 
