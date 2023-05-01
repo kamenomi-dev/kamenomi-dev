@@ -9,7 +9,7 @@
 
 |        Project name         | Status  | Latest Version  |                 Developer(s)                 |
 | :-------------------------: | :-----: | :-------------: | :------------------------------------------: |
-|   Foca-XT  | Coding | 1.0.0beta | creakler](https://github.com/CreaklerFurry) |
+|   Foca-XT  | Coding | 1.0.0beta | [creakler](https://github.com/CreaklerFurry) |
 |    Orz Static Blog Frame    | Pause  | dev Alpha 3.2.1 | [Creakler](https://github.com/CreaklerFurry) |
 
 **MORE PROJECTS, [SEE](https://github.com/FurryKamenomi/orz-pluginIndex)**
