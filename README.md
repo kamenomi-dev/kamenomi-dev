@@ -1,32 +1,41 @@
-# Hi 👋 Creakler Here. :D
+## Kamenomi's Profile
 
-- 💻 Amateur font-end engineer (FE)
-- 👦 Pronouns: He / His
-- 🏳️‍🌈 Sexuality: Gay
-- ⭕ Opensource :D
+> Edit at 2023y 06m 20d
 
-> 📂 Projects:
+### Base infomation
 
-|        Project name         | Status  | Latest Version  |                 Developer(s)                 |
-| :-------------------------: | :-----: | :-------------: | :------------------------------------------: |
-|   Foca-XT                   | Coding | 1.0.0beta        | [Creakler](https://github.com/CreaklerFurry) |
-|    Orz Static Blog Frame    | Pause  | dev Alpha 3.2.1  | [Creakler](https://github.com/CreaklerFurry) |
+Nickname: **Kamenomi**
 
-**MORE PROJECTS, [SEE](https://github.com/FurryKamenomi/orz-pluginIndex)**
+Age: **14**
 
-More Links: [Homepage](https://creaklerfurry.github.io/) · [About Me More](https://creaklerfurry.github.io/README.md) · [About Me More - EN](https://creaklerfurry.github.io/README-EN.md)
+Job: **Student**
 
-Using:
+---
 
-<img src="https://skillicons.dev/icons?i=vscode,powershell,null,git,github,gitlab,null,twitter,discord">
+##### Skilled program language:
 
-<img src="https://skillicons.dev/icons?i=md,null,html,ts,js,jquery,null,php,mysql">
+![Skill-icons](https://skillicons.dev/icons?i=ts,js,nodejs,py)
 
+### Self-description
 
+> I am a middle-school student, not good at English and more language. (But the profile is edited by myself. Bruh)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreaklerFurry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+I have many more projects by myself. For example, qq-bot, some tools on Windows, and more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreaklerFurry&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I tried my best to design a different UI, and it makes a good impression on people.
 
 
 
+##### Resume (**Fake**)
+
+|    Name     |          Kamenomi          |  \|  |     Age     |            14            |
+| :---------: | :------------------------: | :--: | :---------: | :----------------------: |
+|   Studio    |  Origami St. & Aurora St.  |  \|  |  Dream job  |      C++ Developer       |
+| ----------- | -------------------------- |  -   | ----------- |    ------------------    |
+|  More-Info  |          Male-Gay          |  \|  |    Hobby    | Riding & Running & Furry |
+
+
+
+> People watched my profile times.
+
+![Counter](https://count.getloli.com/get/@kamenomi?theme=moebooru)
