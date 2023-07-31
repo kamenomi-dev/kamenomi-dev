@@ -1,39 +1,48 @@
-## Kamenomi's Profile
+<div align=center>
 
-> Edit at 2023y 06m 20d
+# Akio's Profile
 
-### Base infomation
-
-Nickname: **Kamenomi**
-
-Age: **14**
-
-Job: **Student**
+> Here's person profile for Akio! :smile:
 
 ---
 
-##### Skilled program language:
+China/Hongkong | Student | 1992 | :rainbow:
 
-![Skill-icons](https://skillicons.dev/icons?i=ts,js,nodejs,py)
+</div>
 
-### Self-description
+## Development Languages.
 
-> I am a middle-school student, not good at English and more language. (But the profile is edited by myself. Bruh)
-
-I have many more projects by myself. For example, qq-bot, some tools on Windows, and more.
-
-I tried my best to design a different UI, and it makes a good impression on people.
+C++ (WinX64/86)  | Java/Typescript | Python
 
 
 
-##### Resume (**Fake**)
+## End-part Development
 
-|    Name     |          Kamenomi          |  \|  |     Age     |            14            |
-| :---------: | :------------------------: | :--: | :---------: | :----------------------: |
-|   Studio    |  Origami St. & Aurora St.  |  \|  |  Dream job  |      C++ Developer       |
-| ----------- | -------------------------- |  -   | ----------- |    ------------------    |
-|  More-Info  |          Male-Gay          |  \|  |    Hobby    | Riding & Running & Furry |
+NodeJS | HTML | CSS(LESS) | NGINX | APACHE
 
+
+
+## Workspace
+
+Visual Studio | Visual Studio Code | NPM | Git
+
+Edge | Firefox | Chromium | Typora | Notepad ++
+
+
+
+## Platform
+
+Window 10 2H12 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750Ti.
+
+
+
+
+
+## Contacts
+
+Github : https://github.com/FurryKamenomi
+
+Xwitter : https://twitter.com/Akio1992_HK
 
 
 > People watched my profile times.
