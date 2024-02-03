@@ -1,38 +1,32 @@
 <div align=center>
 
-# Akio's Profile
+# Kamen's Profile
 
-> Here's person profile for Akio! :smile:
+> Here is my introduction! :smile:
 
 ---
 
-China/Hongkong | Student | 1992 | :rainbow:
+China/Guangdong | Student
 
 </div>
 
 ## Development Languages.
 
-C++ (WinX64/86)  | Java/Typescript | Python
-
-
-
-## End-part Development
-
-NodeJS | HTML | CSS(LESS) | NGINX | APACHE
+C++ WinNT  | Typescript | Python | HTML | CSS
 
 
 
 ## Workspace
 
-Visual Studio | Visual Studio Code | NPM | Git
+Virtual Studio | Visual Studio Code | NPM | Git
 
-Edge | Firefox | Chromium | Typora | Notepad ++
+Edge | Firefox | Chromium | Typora | Vim
 
 
 
 ## Platform
 
-Window 10 2H12 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750Ti.
+Window 10 2H12 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750.
 
 
 
@@ -40,11 +34,8 @@ Window 10 2H12 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750Ti.
 
 ## Contacts
 
-Github : https://github.com/FurryKamenomi
+Nothing
 
-Xwitter : https://twitter.com/Akio1992_HK
-
-
-> People watched my profile times.
+> Watched
 
 ![Counter](https://count.getloli.com/get/@kamenomi?theme=moebooru)
