@@ -26,7 +26,7 @@ Edge | Firefox | Chromium | Typora | Vim
 
 ## Platform
 
-Window 10 2H12 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750.
+Window 10 22H2 (x64) | Intel Xeon L5640 | Nvidia GeForce GTX 750.
 
 
 
