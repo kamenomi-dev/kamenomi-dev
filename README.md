@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C++, Nodejs, Preact**
 
-- 🕘 Other projects **MinecraftLauncher**
+- 🕘 Other projects **UIEngine**
 
-- 📫 How to reach me **CatCreakler2023@gmail.com**
+- 📫 How to reach me **me@kamen-dev.cv**
 
 - ⚡ Fun fact **To do is to be~**
 
